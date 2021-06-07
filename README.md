@@ -14,3 +14,30 @@ Some crypto addresses:
 Paypal:
 
 `jbensa081@gmail.com`
+
+Donators are eligible for: 
+
+**BASIC**
+
+*1-50 USD*
+
+- Shoutouts on my [twitter](https://twitter.com/orangemn6/), [blog](https://blog.orangemn6.xyz), and on my github page.
+
+**MEDIUM**
+
+*50-90 USD*
+
+- A custom @orangemn6.xyz email. The more you donate the higher the priority.
+
+**BIG DONATION**
+
+*90+ USD*
+
+- An orangemn6.xyz subdomain. While supplies last!
+
+**HOW ARE YOU THIS RICH**
+
+*1000 USD+*
+
+- Access to the @OpenSuspect Easter Egg Squad channel
+- Custom website made by me (Terms apply)
