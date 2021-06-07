@@ -9,8 +9,10 @@ Some crypto addresses:
 - BTC: `18escPgcU3tWcp8r4pRnBueNyKJu2HvFGT`
 - DOGE: `DSZqrMNnq66MJm3StUeg6H4BVaF5HwyAgF`
 - LTC: `LWvYqDkCsxEnrav4RQqGBd5CuXrcKKDjx3`
-- XMR: `479pUAVkyuwYdEC5LME1JrCXdqovP9xU17bxbYbFf1xPKaH7diZXwsXLJSWmagD5E1K48ZnHvCnUAVucDYnMKY7G4vGMscb`
-
+- <details>
+  <summary>XMR: </summary>
+  <code>479pUAVkyuwYdEC5LME1JrCXdqovP9xU17bxbYbFf1xPKaH7diZXwsXLJSWmagD5E1K48ZnHvCnUAVucDYnMKY7G4vGMscb</code>
+</details>
 Paypal:
 
 `jbensa081@gmail.com`
