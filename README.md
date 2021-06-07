@@ -1,6 +1,6 @@
 # How to donate
 
-If you find my work or my code useful, please consider donating. This will help fund my projects and all extras will be donated. 
+If you find my work or my code useful, please consider donating. This will help fund my projects and future ideas
 
 Some crypto addresses: 
 
