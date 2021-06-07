@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Donate
+tagline:          'Donate to Orangemn6'
+description:      'Web Developer and Linux User. Loves Open-Source projects and having fun.'
+url:              http://donate.orangemn6.xyz
+baseurl:          /
+
+author:
+  name:           'Orangemn6'
+  url:            https://twitter.com/orangemn6
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/orangemn6
