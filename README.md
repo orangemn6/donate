@@ -2,6 +2,7 @@
 
 If you find my work or my code useful, please consider donating. This will help fund my projects and future ideas
 
+
 Some crypto addresses: 
 
 - ETH: `0x9822EAd931E40C83A4Ef30d780F706c1D5888e49`
@@ -43,3 +44,7 @@ Donators are eligible for:
 
 - Access to the @OpenSuspect Easter Egg Squad channel
 - Custom website made by me (Terms apply)
+
+
+
+***IF YOU KINDLY DONATE PLEASE [EMAIL ME](mailto:me@orangemn6.xyz) OR [SEND ME A MESSAGE](https://github.com/orangemn6#contact-me) TO CLAIM YOUR PERKS***
