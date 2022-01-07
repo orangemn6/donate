@@ -9,7 +9,7 @@ Some crypto addresses:
 
 Buy NFTS from:
 
-[Here](https://showtime.io/orangemn6) or [here](https://rarible.com/orangemn6)
+[Here](https://showtime.io/orangemn6) or [here](https://rarible.com/orangemn6)   
 
 Donators are eligible for: 
 
